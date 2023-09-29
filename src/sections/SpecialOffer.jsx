@@ -1,7 +1,9 @@
 
 const SpecialOffer = () => {
   return (
-    <div>No SpecialOffer</div>
+    <section className="flex justify-wrap items-center">
+
+    </section>
   )
 }
 
